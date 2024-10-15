@@ -40,7 +40,7 @@ const addDog = async (breed, name) => {
         });
         let data = await response.json();
         console.log(data);
-        getDogs(); // Refresh the list of dogs
+        getDogs(); 
     } catch (error) {
         console.error('Error:', error);
     }

@@ -1,11 +1,6 @@
 {
   "dogs": [
     {
-      "id": 1,
-      "breed": "Golden Retriever",
-      "name": "Buddy"
-    },
-    {
       "id": 2,
       "breed": "Beagle",
       "name": "Daisy"
@@ -19,6 +14,11 @@
       "id": 4,
       "breed": "Poodle",
       "name": "Frankie"
+    },
+    {
+      "breed": "Pitbull",
+      "name": "Sparky",
+      "id": 5
     }
   ]
 }
